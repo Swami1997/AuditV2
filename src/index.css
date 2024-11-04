@@ -1,0 +1,10 @@
+body,
+html {
+  /* display: flex; */
+  /* margin: 0px auto; */
+  width: 100%;
+  min-height: 100vh;
+  margin: 0 auto;
+  background: linear-gradient(to right, #667eea, #764ba2, #ff0080);
+  font-family: Arial, sans-serif;
+}
