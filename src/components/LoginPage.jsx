@@ -132,7 +132,7 @@ const LoginPage = ({ user, setUser }) => {
 
       <div className={styles.container} ref={containerRef}>
         <header className={styles.loginHeader}>
-          <h2>SmartReports</h2>
+          <h2>Big Basket Audit Reports</h2>
         </header>
 
         <form onSubmit={handleSubmit} className={styles.form}>
